@@ -4,5 +4,5 @@
 4 .func main /* ’main’ is a function */
 5
 6 main: /* This is main */
-7 mov r0, #2 /* Put a 2 into register r0 */
+7 mov r0, #1 /* Put a 2 into register r0 */
 8 bx lr /* Return from main */.andi
